@@ -1,7 +1,7 @@
 # A basic Delivery Driver Game built using UNITY
 ### objects used:
 - package
-- spee up(boost)
+- speed up(boost)
 - customer
 - car
 
